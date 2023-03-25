@@ -18,13 +18,11 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+What are the steps required to install your project? N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Control+Shift+I. A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 ![alt text](assets/images/screenshot.png)
 
